@@ -96,6 +96,7 @@
 					<h5>EDUCATION</h5>
 				</div>
 				<div class="col-lg-6">
+<<<<<<< HEAD
 					<p><t>Doctorate in Astronomy</t><br/>
 						Stockholm University <br/>
 						<i>4 Years Course</i>
@@ -110,6 +111,10 @@
 				<div class="col-lg-6 col-lg-offset-3">
 					<p><t>Intergrated Master of Technology</t><br/>
 						Indian Insitute of Technology (BHU), Varansi <br/>
+=======
+					<p><t>Integrated Master of Technology</t><br/>
+						Indian Institute of Technology (BHU), Varanasi <br/>
+>>>>>>> 89dbd7ff6d3a65e118c4bf41ec0a719fead89a31
 						<i>5 Years Course</i>
 					</p>
 				</div>
@@ -117,6 +122,19 @@
 					<p><sm>MAY 2015</sm></p>
 				</div>
 	
+<<<<<<< HEAD
+=======
+				<div class="col-lg-6 col-lg-offset-3">
+					<p><t>Degree of Web Developer</t><br/>
+						Hastings University <br/>
+						<i>2 Years Course</i>
+					</p>
+				</div>
+				<div class="col-lg-3">
+					<imp><sm>IN PROGRESS</sm></imp>
+				</div>
+	
+>>>>>>> 89dbd7ff6d3a65e118c4bf41ec0a719fead89a31
 		</div><!--/.row -->
 		<br>
 		<hr>
@@ -414,7 +432,7 @@
 	
 	<div id="c">
 		<div class="container">
-			<p>Created by <a href="http://www.blacktie.co">BLACKTIE.CO</a></p>
+			<p>Created by <b>SAMBIT</b></p>
 		
 		</div>
 	</div>
